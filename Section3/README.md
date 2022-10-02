@@ -12,6 +12,6 @@ Cons:
 
 
 
- ```
+
 ![image info](event_driven_architecture.png)
-```
+
